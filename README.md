@@ -38,7 +38,7 @@ This project answers questions such as:
 - Python
 - Pandas
 - Matplotlib
-- Jupyter Notebook
+- google collab
 
 ---
 
@@ -47,6 +47,7 @@ This project answers questions such as:
 ```python
 pandas
 matplotlib
+
 ```
 
 ---
@@ -143,8 +144,7 @@ git clone https://github.com/your-username/Zomato-Data-Analysis.git
 pip install pandas matplotlib
 ```
 
-3. Open Jupyter Notebook
-
+3. Open google collab
 ```bash
 jupyter notebook
 ```
@@ -189,6 +189,7 @@ Aspiring Data Analyst
 - Pandas
 - NumPy
 - Matplotlib
+- seaborn
 - Data Visualization
 - Exploratory Data Analysis
 
