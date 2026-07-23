@@ -146,7 +146,8 @@ pip install pandas matplotlib
 
 3. Open google collab
 ```bash
-jupyter notebook
+Google Collab
+
 ```
 
 4. Run all notebook cells.
